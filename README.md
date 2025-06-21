@@ -31,7 +31,7 @@ This project simulates a unicorn ride-sharing platform with:
 
 ## 📸 Architecture Overview
 
-```txt
+
 Client (User)
    │
    ▼
@@ -45,8 +45,6 @@ API Gateway ──► Lambda (Ride Handler)
                         │
                         ▼
                  DynamoDB (Ride Logs)
-
-```txt
 
 
 
