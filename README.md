@@ -46,6 +46,8 @@ API Gateway ──► Lambda (Ride Handler)
                         ▼
                  DynamoDB (Ride Logs)
 
+```txt
+
 
 
 ---
