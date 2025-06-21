@@ -1,6 +1,6 @@
 # 🚖 SkyFleet – Serverless Ride Dispatch System
 
-A fully serverless ride-booking platform built using AWS services like Lambda, Cognito, API Gateway, and DynamoDB. Developed as part of a hands-on AWS cloud engineering course (SVS203-R1), this project explores building scalable backend systems with modern DevOps practices.
+A fully serverless ride-booking platform built using AWS services like Lambda, Cognito, API Gateway, and DynamoDB. Developed as part of a hands-on AWS Solutions Architect course, this project explores building scalable backend systems with modern DevOps practices.
 
 ---
 
